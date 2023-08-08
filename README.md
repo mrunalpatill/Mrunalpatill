@@ -1,16 +1,17 @@
-# Manual Quality Assurance Engineer
+# Hi, I'm Mrunal Patil, a Bug Hunter🕵🏻‍♀️
 
 Welcome to my QA playground!🧪 I'm a passionate Manual QA Engineer dedicated to ensuring the highest level of software quality through meticulous testing and bug hunting.
-With a keen eye for detail and a knack for uncovering even the trickiest of defects.👀 Here, you'll find my explorations, strategies, and insights into the world of quality assurance.
+With a keen eye for detail and a knack for uncovering even the trickiest of defects.👀
 
 ## About Me
 
-1. 🔍 Hi, I'm Mrunal Patil, and I'm on a mission to uncover every hidden bug and ensure seamless user experiences. 
-2. 🧪 Manual QA Engineer with 1.5 years of experience
-3. 🔧 Expertise in functional, usability, regression, and user acceptance testing
-4. 🐞 Skilled in defect identification, isolation, and reporting
-5. 💡 Enthusiastic about continuous learning and improving QA processes
-6. 👩🏻‍💻 Currently working QA at [Brainstorm Force ](https://brainstormforce.com/)
+1. 🔍  Hi, I'm Mrunal Patil.
+2. 🧪  Manual QA Engineer with 1.5 years of experience
+3. 🔧  Expertise in functional, usability, regression, and user acceptance testing
+4. 🐞  Skilled in defect identification, isolation, and reporting
+5. 💡  Enthusiastic about continuous learning and improving QA processes
+6. 👩🏻‍💻  Currently working QA at [Brainstorm Force ](https://brainstormforce.com/)
+7. ⚔️   Also, I'm on a mission to uncover every hidden bug and ensure seamless user experiences.
 
 ## My QA Philosophy
  

@@ -6,7 +6,7 @@ With a keen eye for detail and a knack for uncovering even the trickiest of defe
 ## About Me
 
 1. 🔍  Hi, I'm Mrunal Patil.
-2. 🧪  anual QA Engineer with industry level experience around 1.5 yrs and counting.
+2. 🧪  Manual QA Engineer with industry level experience around 1.5 yrs and counting.
 3. 🔧  Expertise in functional, usability, regression, and user acceptance testing
 4. 🐞  Skilled in defect identification, isolation, and reporting
 5. 💡  Enthusiastic about continuous learning and improving QA processes

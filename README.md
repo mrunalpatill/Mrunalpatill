@@ -27,7 +27,7 @@ Quality assurance is not just a job, it's a mission to ensure software reliabili
 📫 Feel free to reach out if you're a fellow QA enthusiast, a developer looking to collaborate, or anyone who's as excited about quality software as I am!
 Connect with me on [LinkedIn](https://www.linkedin.com/in/mrunalpatil23)!
 
-Every bug is a lesson learned!📖 Let's work together to make software as bug-free and user-friendly as possible!🔥
+Let's work together to make software as bug-free and user-friendly as possible!🔥
 Happy testing! 🚀
 
 <!---

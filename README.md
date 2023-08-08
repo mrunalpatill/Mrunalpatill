@@ -5,12 +5,12 @@ With a keen eye for detail and a knack for uncovering even the trickiest of defe
 
 ## About Me
 
-🔍 Hi, I'm Mrunal Patil, and I'm on a mission to uncover every hidden bug and ensure seamless user experiences. 
-🧪 Manual QA Engineer with 1.5 years of experience
-🔧 Expertise in functional, usability, regression, and user acceptance testing
-🐞 Skilled in defect identification, isolation, and reporting
-💡 Enthusiastic about continuous learning and improving QA processes
-👩🏻‍💻 Currently working QA at [Brainstorm Force ](https://brainstormforce.com/)
+1. 🔍 Hi, I'm Mrunal Patil, and I'm on a mission to uncover every hidden bug and ensure seamless user experiences. 
+2. 🧪 Manual QA Engineer with 1.5 years of experience
+3. 🔧 Expertise in functional, usability, regression, and user acceptance testing
+4. 🐞 Skilled in defect identification, isolation, and reporting
+5. 💡 Enthusiastic about continuous learning and improving QA processes
+6. 👩🏻‍💻 Currently working QA at [Brainstorm Force ](https://brainstormforce.com/)
 
 ## My QA Philosophy
  
@@ -28,8 +28,6 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/mrunalpatil23)!
 
 Every bug is a lesson learned!📖 Let's work together to make software as bug-free and user-friendly as possible!🔥
 Happy testing! 🚀
-
-
 
 <!---
 mrunalpatill/mrunalpatill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
